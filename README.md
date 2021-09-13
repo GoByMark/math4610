@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Xiang's (Mark's) 4610 Webpage
 
-You can use the [editor on GitHub](https://github.com/GoByMark/math4610/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is dedicated to the course work for Fundamentals of Computational Mathematics at Utah State University (USU) during the Fall Semester of 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For this course, I will use the Python Programming language, with the Terminal on Mac to compile files. I will use PyCharm as a text editor for my code. LaTeX will be used supplementally for documentation purposes.
 
 ### Markdown
 
