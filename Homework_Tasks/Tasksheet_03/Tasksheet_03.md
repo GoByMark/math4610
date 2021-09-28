@@ -45,7 +45,9 @@ The error decreases from 0.00034, which suggests that the approximation is actua
 ### Task 2:
 The central difference approximation is actually second order accurate due to the slope generated from the plot. 
 From the log-log plot, the approximation begins to fail around the 7-th to 9-th iteration. This is likely due to the limitation of python with decreasing h-value.
+
 ![Python Log-Log Graph](https://github.com/GoByMark/math4610/blob/fc8000ef7021a30b30a2c3733014ef5a0f7fed78/Homework_Tasks/Tasksheet_03/pics/YourWay.png)
+
 Since the I only changed two values in the provided code, my own code is the following:
 
 ```Python
@@ -155,6 +157,8 @@ I created the [Software Manual's Table of Contents](https://github.com/GoByMark/
 There are difference between static and shared libraries [(https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)](https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)
 * Shared libraries reduce the amount of code that is duplicated in each program that makes use of the library, keeping the binaries small.
 * Static libraries increase the overall size of the binary, but it means that you don't need to carry along a copy of the library that is being used.
+
+
 There are also different kinds of shared libraries [(https://www.jenkins.io/doc/book/pipeline/shared-libraries/)](https://www.jenkins.io/doc/book/pipeline/shared-libraries/)
 * Global Shared Libraries;
 * Folder-level Shared Libraries;
