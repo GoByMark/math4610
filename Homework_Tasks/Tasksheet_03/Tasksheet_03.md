@@ -1,7 +1,9 @@
 ### Task 1:
 
 I used the example from Tasksheet 02, to print out the following table, 
+
 ![Python Log-Log Graph](https://github.com/GoByMark/math4610/blob/96b5354084cd307d0c6eebbea41beb097f0aca56/Homework_Tasks/Tasksheet_03/pics/difference.png)
+
 And the following code is used:
 
 ```Python
@@ -88,8 +90,11 @@ plt.show()
 fig1.savefig('MyWay.png', bbox_inches='tight')
 
 ```
+
 ### Task 3:
+
 The routine for single precision is provided below:
+
 ```Python
 import numpy as py
 
@@ -104,6 +109,7 @@ def sMachineEps():
         eps = py.float32(0.5*eps)
 ```
 With the following code for testing:
+
 ```Python
 import numpy as py
 from dMachineEps import dMachineEps
@@ -111,7 +117,9 @@ from dMachineEps import dMachineEps
 sMachineEps()
 ```
 And the following output:
+
 ![Python Log-Log Graph](https://github.com/GoByMark/math4610/blob/fc8000ef7021a30b30a2c3733014ef5a0f7fed78/Homework_Tasks/Tasksheet_03/pics/single.png)
+
 The routine for double precision is provided below:
 ```Python
 import numpy as py
@@ -127,6 +135,7 @@ def dMachineEps():
         eps = 0.5*eps
 ```
 With the following code for testing:
+
 ```Python
 import numpy as py
 from dMachineEps import dMachineEps
@@ -134,6 +143,7 @@ from dMachineEps import dMachineEps
 dMachineEps()
 ```
 And the following output:
+
 ![Python Log-Log Graph](https://github.com/GoByMark/math4610/blob/fc8000ef7021a30b30a2c3733014ef5a0f7fed78/Homework_Tasks/Tasksheet_03/pics/double.png)
 
 ### Task 4:
