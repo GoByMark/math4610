@@ -2,5 +2,5 @@
 
 |                    Tasksheet #                    |                    Software Manual Page                   |                     Description                     |
 | :-----------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------: |
-| [Tasksheet #03](../Tasksheet_03/Tasksheet_03.md)  | [sMaceps](./T03/sMacEps.md)                               | Single Machine Precision                            |
-|                                                   | [dMacEps](./T03/dMacEps.md)                               | Double Machine Precision                            |
+| [Tasksheet #03](../Tasksheet_03/Tasksheet_03.md)  | [sMachineEps](./T03/sMacEps.md)                           | Single Machine Precision                            |
+|                                                   | [dMachineEps](./T03/dMacEps.md)                           | Double Machine Precision                            |
