@@ -152,6 +152,7 @@ And the following output:
 I created the [Software Manual's Table of Contents](https://github.com/GoByMark/math4610/blob/fc8000ef7021a30b30a2c3733014ef5a0f7fed78/Homework_Tasks/Software_Manual/Software_Manual_toc.md). Then I uploaded my precision calculating file. Afterward, I added the links to those files to the Software Manual's Table of Contents.
 
 ### Task 5:
+I have created and compiled and linked my shared library. It can be found [here](https://github.com/GoByMark/math4610/blob/d0507f36da5cdfa2d51124cb446eefca3e7cf3a4/Homework_Tasks/Tasksheet_03/src/mylib.a) titled **mylib.a**
 
 ### Task 6:
 There are difference between static and shared libraries [(https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)](https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)
