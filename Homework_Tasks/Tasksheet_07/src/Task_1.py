@@ -19,7 +19,7 @@ x = [1 for i in range(m)]
 b = [1 for i in range(n)]
 
 if np.linalg.det(inputMatrix) != 0:
-    x = np.matmul(np.linalg.inv(inputMatrix), b)
+    x = np.dot(np.linalg.inv(inputMatrix), b)
     print("The solution of the given upper triangular matrix with result b_i = 1 is,\n x =", x)
 else:
     print("Please pick a better n and m next time!")
