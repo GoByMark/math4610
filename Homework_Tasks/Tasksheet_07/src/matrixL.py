@@ -13,4 +13,5 @@ def matrixLool(n, m):
                 matrix[i, j] = 0
             else:
                 matrix[i, j] = i + j - 1
+    print("The lower triangular matrix of size", n, "by", m, "is the following\n", matrix)
     return matrix
