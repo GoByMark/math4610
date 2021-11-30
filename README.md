@@ -6,4 +6,4 @@ For this course, I will use the Python Programming language, with the Terminal o
 
 ## Quick Links
 * [Tasksheet: Table of Contents](https://github.com/GoByMark/math4610/blob/cc98fc3e03086d2d6029443e79ef5d8e0b071a4e/Homework_Tasks/hwt_toc.md)
-* [Software Manual: Table of Contents](https://github.com/GoByMark/math4610/blob/master/hw_toc/Software_Manual/Software_Manual_toc.md)
+* [Software Manual: Table of Contents](https://github.com/GoByMark/math4610/tree/main/Homework_Tasks/Software_Manual)
