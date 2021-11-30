@@ -17,3 +17,4 @@
 |                                                   | [Task_2](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_08/src/Task_2.py)                                 | LU Factorization                                    |
 |                                                   | [matrixP](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_08/src/matrixP.py)               | Pivot Matrix                             |
 |                                                   | [Task_3](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_08/src/Task_3.py)               | Solution to Hilbert Matrix                             |
+|                                                   | [Task_4](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_08/src/Task_4.py)               | Gaussian Elimination with Patial Pivoting                          |
