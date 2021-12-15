@@ -48,3 +48,4 @@
 |                                                   | [matVecPro.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/matVecPro.py)               | The Product of a Rectangular Matrix and Vector                         |
 |                                                   | [matMatPro.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/matMatPro.py)               | The Product of Two Rectangular Matrices                         |
 |                                                   | [Task_4.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/Task_4.py)               | The Jacobi Method                         |
+|                                                   | [Task_5.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/Task_5.py)               | The Comparsion                         |
