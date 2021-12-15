@@ -47,3 +47,4 @@
 |                                                   | [matTran.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/matTran.py)               | The Transpose of a Matrix                             |
 |                                                   | [matVecPro.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/matVecPro.py)               | The Product of a Rectangular Matrix and Vector                         |
 |                                                   | [matMatPro.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/matMatPro.py)               | The Product of Two Rectangular Matrices                         |
+|                                                   | [Task_4.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/Task_4.py)               | The Jacobi Method                         |
