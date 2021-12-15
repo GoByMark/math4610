@@ -51,4 +51,4 @@
 |                                                   | [Task_5.py](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_09/src/Task_5.py)               | The Comparsion                         |
 | [Tasksheet #10](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_08/Tasksheet%2008.pdf)  | [powerMethod](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_10/src/powerMethod.py)                         | Power Method for Finding Largest Eigenvalues        |
 |                                                   | [invPowerMethod](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_10/src/invPowerMethod.py)                               | Power Method for Finding Smallest Eigenvalues            |
-
+|                                                   | [mat1Norm](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_10/src/mat1Norm.py)                               | Computing 1-Matrix Norm for a Square Matrix            |
