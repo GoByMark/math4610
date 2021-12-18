@@ -1,4 +1,4 @@
-**Routine Name:** sMacEps  
+**Routine Name:** absErr.py  
 
 **Author:** Xiang Gao 
 
@@ -6,7 +6,7 @@
 
 **Output:** [Tasksheet_04](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_04/Tasksheet%2004.pdf)
 
-Code for sMacEps.cpp:  
+Code for absErr.py:  
 ```Python
 import numpy as np
 
