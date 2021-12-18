@@ -1,4 +1,4 @@
-**Routine Name:** sMacEps  
+**Routine Name:** Secant  
 
 **Author:** Xiang Gao 
 
@@ -6,7 +6,7 @@
 
 **Output:** [Tasksheet_06](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_06/Tasksheet%2006.pdf)
 
-Code for sMacEps.cpp:  
+Code for Secant.py:  
 ```Python
 import numpy as np
 
