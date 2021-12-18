@@ -1,4 +1,4 @@
-**Routine Name:** sMacEps  
+**Routine Name:** Hybird 
 
 **Author:** Xiang Gao 
 
@@ -6,7 +6,7 @@
 
 **Output:** [Tasksheet_05](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_05/Tasksheet%2005.pdf)
 
-Code for sMacEps.cpp:  
+Code for Hybird.py:  
 ```Python
 import numpy as np
 
