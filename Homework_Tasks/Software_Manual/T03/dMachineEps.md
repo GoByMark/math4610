@@ -1,4 +1,4 @@
-**Routine Name:** sMacEps  
+**Routine Name:** dMacEps  
 
 **Author:** Xiang Gao 
 
@@ -6,7 +6,7 @@
 
 **Output:** [Tasksheet_03](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_03/Tasksheet%2003.pdf)
 
-Code for sMacEps.cpp:  
+Code for dMacEps.cpp:  
 ```Python
 def dMachineEps():
     one = 1.0
