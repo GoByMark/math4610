@@ -6,7 +6,7 @@
 
 **Output:** [Tasksheet_03](https://github.com/GoByMark/math4610/blob/main/Homework_Tasks/Tasksheet_03/Tasksheet%2003.pdf)
 
-Code for sMacEps.cpp:  
+Code for sMacEps.py:  
 ```Python
 import numpy as py
 
